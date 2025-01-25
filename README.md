@@ -40,6 +40,6 @@ This methodology was **significantly influenced** by the approach in [TheBlackCa
 ## **Results**
 Below are three sample processed frames from a handmade test dataset of a dining room:
 
-![Processed Frame 1](main/results/frame1.jpg)  
-![Processed Frame 2](main/results/frame2.jpg)  
-![Processed Frame 3](main/results/frame3.jpg)
+![Processed Frame 1](main/results/1.jpg)  
+![Processed Frame 2](main/results/2.jpg)  
+![Processed Frame 3](main/results/3.jpg)
