@@ -24,6 +24,7 @@ This repository implements a lightweight seat occupancy detection system using a
   2. If `0` is not detected but other values are present:
      - Determine whether these values are unimportant. If they are, the chair is marked as "**empty**".
      - Otherwise, the chair is marked as "**occupied**".
+  3. If nothing is detected then check on smaller ROIs.
 
 - **Dataframe Output**:
   - Results are saved as a `.csv` file containing the following columns:
