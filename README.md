@@ -10,7 +10,7 @@
 
 ---
 
-This repository implements a lightweight seat occupancy detection system using a pre-trained YOLOv8 model on preprocessed frame.
+This repository implements a lightweight seat occupancy detection system using a pre-trained YOLOv8 model on processed frames.
 
 ## **Methodology**
 ### **1. Region of Interest (ROI):**
